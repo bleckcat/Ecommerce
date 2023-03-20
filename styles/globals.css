@@ -207,7 +207,7 @@ span.text-red {
   font-weight: 200;
 }
 .footer-banner-container {
-  padding: 100px 40px;
+  padding: 4rem 40px;
   background-color: #f02d34;
   border-radius: 15px;
   position: relative;
@@ -241,11 +241,6 @@ span.text-red {
   margin: 18px;
 }
 .footer-banner-image {
-  position: absolute;
-  /* top: -35%;
-  left: 8%; */
-  top: -25%;
-  left: 25%;
 }
 .banner-desc .right {
   line-height: 1.4;
