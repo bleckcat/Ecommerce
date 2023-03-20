@@ -207,7 +207,7 @@ span.text-red {
   font-weight: 200;
 }
 .footer-banner-container {
-  padding: 4rem 40px;
+  padding: 4rem 2.5rem;
   background-color: #f02d34;
   border-radius: 15px;
   position: relative;
@@ -241,6 +241,9 @@ span.text-red {
   margin: 18px;
 }
 .footer-banner-image {
+  max-width: 500px;
+  margin: -2rem -4rem;
+  max-height: 500px;
 }
 .banner-desc .right {
   line-height: 1.4;
