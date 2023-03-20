@@ -94,4 +94,6 @@ To get a local copy up and running follow these simple example steps.
    NEXT_PUBLIC_STRIPE_SECRET_KEY
    ```
 
+5. For the the images and back-end you can download the [https://github.com/bleckcat/Ecommerce-sanity](EcommerceSanity) project.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
